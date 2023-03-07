@@ -1,4 +1,3 @@
-[![MasterHead]([https://i.pinimg.com/564x/18/7e/6f/187e6f495a725d94f05cc89701571ca0.jpg](https://i.pinimg.com/564x/69/2a/da/692ada21d1e310026c4515f9f6e2a443.jpg))]
 <h1 align="center">Hi 👋, I'm KlyntarX</h1>
 <h3 align="center">A am a professional developer</h3>
 <img align="right" alt="Coding" width="400" src="https://vijaymishra964.com/wp-content/uploads/2019/11/web-design.gif.">
