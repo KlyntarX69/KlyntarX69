@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm KlyntarX</h1>
-<h3 align="center">A am a professional developer</h3>
+<h3 align="center">I am a professional developer</h3>
 <img align="right" alt="Coding" width="400" src="https://vijaymishra964.com/wp-content/uploads/2019/11/web-design.gif.">
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
