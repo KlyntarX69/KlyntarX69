@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **kotlin**
 
-- 📝 I regularly write articles on [https://randompersonwritecode.blogspot.com/2023/04/write-code-in-python-for-first-time.html](https://randompersonwritecode.blogspot.com/2023/04/write-code-in-python-for-first-time.html)
+- 📝 I regularly write articles on [blog]https://randompersonwritecode.blogspot.com/)
 
 - 💬 Ask me about **python**
 
