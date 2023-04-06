@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **kotlin**
 
-- 💬 Ask me about **python**
+- 💬 Ask me about **anything**
 
-- 📫 How to reach me **klyntarxgaming@gmail.com, KlyntarX_989#8490 -discord**
+- 📫 How to reach me **klyntarxgaming@gmail.com, KlyntarX#8420 -discord**
 
 - ⚡ Fun fact **I think I am smart**
 
