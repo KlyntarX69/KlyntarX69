@@ -1,7 +1,7 @@
 ![masterhead](https://i.imgur.com/dofCwAI.png)
 <img src="https://i.imgur.com/76AIdCo.png" style="height: 200px; width: 200px; border-radius: 90%;">
 # 💫 About Me:
-I like gaming and I have a good amount of coding and programming experience my friends say I'm a 10x dev but I think that's just a myth and you should belive in that if you want to :)
+I like most things but I don't understand one thing Why are you reading my profile tho are you a stalker?? a pedophile or something ??
 
 
 ## 🌐 Socials:
