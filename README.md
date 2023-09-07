@@ -1,7 +1,7 @@
 ![masterhead](https://i.imgur.com/dofCwAI.png)
 <img src="https://i.imgur.com/76AIdCo.png" style="height: 200px; width: 200px; border-radius: 90%;">
 # 💫 About Me:
-I like most things but I don't understand one thing Why are you reading my profile tho are you a stalker?? a pedophile or something ??
+I tend to understand most things in life and I like to have my privacy **private**. I like being anonymous but I want to show my skill, Why? That it is private... 
 
 
 ## 🌐 Socials:
@@ -25,5 +25,3 @@ I like most things but I don't understand one thing Why are you reading my profi
 
 ---
 [![](https://visitcount.itsvg.in/api?id=KlyntarX69&icon=2&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
