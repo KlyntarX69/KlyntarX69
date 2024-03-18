@@ -1,5 +1,5 @@
 ![masterhead](https://i.imgur.com/dofCwAI.png)
-<img src="https://i.imgur.com/76AIdCo.png" style="height: 200px; width: 200px; border-radius: 90%;">
+<img src="https://i.imgur.com/76AIdCo.png" style="height: 200px; width: 200px; border-radius: 90px;">
 # 💫 About Me:
 I tend to understand most things in life and I like to have my privacy **private**. I like being anonymous but I want to show my skill, Why? That it is private... 
 
